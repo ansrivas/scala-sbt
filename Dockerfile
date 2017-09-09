@@ -1,6 +1,6 @@
 FROM  openjdk:8-jdk-slim
 
-ENV SCALA_VERSION 2.11.11
+ENV SCALA_VERSION 2.12.3
 ENV SBT_VERSION 1.0.1
 
 # Scala expects this file
