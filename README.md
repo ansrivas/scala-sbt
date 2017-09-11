@@ -1,6 +1,8 @@
 # scala-sbt
 ---
 
+[![DockerPulls](https://img.shields.io/docker/pulls/ansrivas/scala-sbt.svg)](https://registry.hub.docker.com/u/ansrivas/scala-sbt/)
+
 Docker Image for scala-sbt
 
 This provides a combination of scala and sbt versions.
